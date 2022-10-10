@@ -5,5 +5,5 @@
 Para rodar esse projeto em sua maquina favor instale
 
 ```
-node.app.js
+nodeapp.js
 ```
