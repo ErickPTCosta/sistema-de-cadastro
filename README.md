@@ -5,5 +5,5 @@
 Para rodar esse projeto em sua maquina favor instale
 
 ```
-install django-rest
+node.app.js
 ```
