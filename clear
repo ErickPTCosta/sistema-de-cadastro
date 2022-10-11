@@ -1,0 +1,54 @@
+[33mcommit 3c755b24af2f4d55c5d9c598a26102b4fc0cc100[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 97b5c0b dfca51d
+Author: zidany <zidanyteixeira18@gmail.com>
+Date:   Mon Oct 10 16:39:43 2022 -0300
+
+    Merge branch 'main' of https://github.com/ErickPTCosta/sistema-de-cadastro
+
+[33mcommit 97b5c0b766ff68f8ebde460f49fe7d7e4b274bcc[m
+Author: zidany <zidanyteixeira18@gmail.com>
+Date:   Mon Oct 10 16:34:23 2022 -0300
+
+    alterei o js
+
+[33mcommit dfca51d62aea8959892226cbd97c5626368caee8[m
+Author: ErickPTCosta <erick.lawliet@gmail.com>
+Date:   Mon Oct 10 16:24:37 2022 -0300
+
+    alterado html lang
+
+[33mcommit c57231cd0ae1e30cf4dda9f0fd521f08edef697d[m
+Author: ErickPTCosta <101602548+ErickPTCosta@users.noreply.github.com>
+Date:   Mon Oct 10 14:57:24 2022 -0300
+
+    criando o arquivo index do projeto.
+
+[33mcommit f72afa43c1aecb43b94147742cd159080ce3d999[m
+Author: ErickPTCosta <101602548+ErickPTCosta@users.noreply.github.com>
+Date:   Mon Oct 10 14:46:18 2022 -0300
+
+    correção2
+
+[33mcommit 5acbadf56468139a6ba07a3d19e61a3c5c66def8[m
+Author: ErickPTCosta <101602548+ErickPTCosta@users.noreply.github.com>
+Date:   Mon Oct 10 14:45:36 2022 -0300
+
+    correção
+
+[33mcommit d405fdc51e93e04db96d9d0440c1a5bcab90f92c[m
+Author: ErickPTCosta <101602548+ErickPTCosta@users.noreply.github.com>
+Date:   Mon Oct 10 14:45:13 2022 -0300
+
+    operando readme do projeto
+
+[33mcommit d1d678facd18188e4f2f9787679be465a480a22f[m
+Author: ErickPTCosta <101602548+ErickPTCosta@users.noreply.github.com>
+Date:   Mon Oct 10 14:44:27 2022 -0300
+
+    Criando app de gestão de jogos
+
+[33mcommit 703e5fb43c0eff79556fb201831d78372a0d8cdf[m
+Author: ErickPTCosta <101602548+ErickPTCosta@users.noreply.github.com>
+Date:   Mon Oct 10 14:36:28 2022 -0300
+
+    Criando o commite do readme
